@@ -10,8 +10,8 @@
 
 ## Policy for robotic manipulation
 - [Q-attention](http://arxiv.org/abs/2105.14829)
-- [Diffusion Policy](http://arxiv.org/abs/2303.04137)
+- [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/) [paper](http://arxiv.org/abs/2303.04137)
 - [Low-Cost Hardware for bimanual manipulation](http://arxiv.org/abs/2304.13705)
 - [Hierarchical Diffusion Policy](http://arxiv.org/abs/2403.03890)
-- [Perceiver-Actor:Multi-Task Transformer for Robotic Manipulation](http://arxiv.org/abs/2209.05451)
+- [Perceiver-Actor: Multi-Task Transformer for Robotic Manipulation](http://arxiv.org/abs/2209.05451)
 - [RVT: Robotic View Transformer for 3D Object Manipulation](http://arxiv.org/abs/2306.14896)
