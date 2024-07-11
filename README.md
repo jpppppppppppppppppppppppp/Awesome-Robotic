@@ -15,3 +15,6 @@
 - [Hierarchical Diffusion Policy](http://arxiv.org/abs/2403.03890)
 - [Perceiver-Actor: Multi-Task Transformer for Robotic Manipulation](http://arxiv.org/abs/2209.05451)
 - [RVT: Robotic View Transformer for 3D Object Manipulation](http://arxiv.org/abs/2306.14896)
+
+## Imitation Learning
+- [DexCap](https://dex-cap.github.io/) [paper](https://arxiv.org/abs/2403.07788)
