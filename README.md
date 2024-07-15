@@ -1,4 +1,7 @@
 # Awesome-Robotic
+## Lecture
+- [cs 237a: Principles of Robot Autonomy I](https://stanfordasl.github.io/PoRA-I/aa274a_aut2223/)
+- [cs 237b: Principles of Robot Autonomy II](http://web.stanford.edu/class/cs237b/)
 
 ## Table-top Manipulation
 - [UniFolding](https://unifolding.robotflow.ai/) [paper](https://arxiv.org/abs/2311.01267)
