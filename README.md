@@ -10,8 +10,11 @@
 - [PaperBot](https://paperbot.cs.columbia.edu/) [paper](https://arxiv.org/abs/2403.09566)
 - [Cloth Funnels](https://clothfunnels.cs.columbia.edu/) [paper](https://ieeexplore.ieee.org/abstract/document/10161546)
 - Pancake [paper](https://arxiv.org/abs/2407.01755)
+- [GraspNet](https://graspnet.net/anygrasp.html) [paper](https://arxiv.org/abs/2212.08333)
+- [9DTact](https://linchangyi1.github.io/9DTact/) [paper](https://arxiv.org/abs/2308.14277)
 
 ## Policy for robotic manipulation
+
 - Q-attention [paper](http://arxiv.org/abs/2105.14829)
 - [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/) [paper](http://arxiv.org/abs/2303.04137)
 - Low-Cost Hardware for bimanual manipulation [paper](http://arxiv.org/abs/2304.13705)
