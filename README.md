@@ -11,6 +11,7 @@
 - [Cloth Funnels](https://clothfunnels.cs.columbia.edu/) [paper](https://ieeexplore.ieee.org/abstract/document/10161546)
 - Pancake [paper](https://arxiv.org/abs/2407.01755)
 - [GraspNet](https://graspnet.net/anygrasp.html) [paper](https://arxiv.org/abs/2212.08333)
+- [RGBGrasp](https://sites.google.com/view/rgbgrasp) [paper](https://arxiv.org/abs/2311.16592)
 - [9DTact](https://linchangyi1.github.io/9DTact/) [paper](https://arxiv.org/abs/2308.14277)
 
 ## Policy for robotic manipulation
