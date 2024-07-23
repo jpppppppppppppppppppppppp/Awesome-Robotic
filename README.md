@@ -9,6 +9,8 @@
 - `2017` Dex-Net 2.0 [paper](https://arxiv.org/abs/1703.09312)
 - `2017` Planar Pushing:
   - Combining learned and analytical models for predicting action effects [paper](https://www.researchgate.net/profile/Jeannette-Bohg/publication/320344651_Combining_learned_and_analytical_models_for_predicting_action_effects/links/5a1a3b23a6fdcc50adeaec5b/Combining-learned-and-analytical-models-for-predicting-action-effects.pdf)
+- `2019` Making Sense of Vision and Touch:
+  - Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks [paper](https://ieeexplore.ieee.org/document/8793485)
 ## Table-top Manipulation
 - [UniFolding](https://unifolding.robotflow.ai/) [paper](https://arxiv.org/abs/2311.01267)
 - [DexAIRity: Deformable Manipulation Can be a Breeze](https://dextairity.cs.columbia.edu) [paper](https://arxiv.org/abs/2203.01197)
