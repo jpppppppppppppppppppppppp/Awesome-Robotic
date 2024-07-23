@@ -4,7 +4,7 @@
 - [cs 237b: Principles of Robot Autonomy II](http://web.stanford.edu/class/cs237b/)
 
 ## CS 237b
-- Robotic Grasping of Novel Objects:
+- `2008` Robotic Grasping of Novel Objects:
   - Grasping previously unseen objects using only 2D images without 3D meshes [paper](https://proceedings.neurips.cc/paper_files/paper/2006/file/22722a343513ed45f14905eb07621686-Paper.pdf)
 
 ## Table-top Manipulation
