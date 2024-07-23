@@ -6,7 +6,7 @@
 ## CS 237b
 - `2008` Robotic Grasping of Novel Objects:
   - Grasping previously unseen objects using only 2D images without 3D meshes [paper](https://proceedings.neurips.cc/paper_files/paper/2006/file/22722a343513ed45f14905eb07621686-Paper.pdf)
-
+- `2017` Dex-Net 2.0 [paper](https://arxiv.org/abs/1703.09312)
 ## Table-top Manipulation
 - [UniFolding](https://unifolding.robotflow.ai/) [paper](https://arxiv.org/abs/2311.01267)
 - [DexAIRity: Deformable Manipulation Can be a Breeze](https://dextairity.cs.columbia.edu) [paper](https://arxiv.org/abs/2203.01197)
