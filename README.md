@@ -33,6 +33,7 @@
 
 ## Imitation Learning
 - [DexCap](https://dex-cap.github.io/) [paper](https://arxiv.org/abs/2403.07788)
+- `2024` [Im2Flow2Act](https://im-flow-act.github.io/) [paper](https://arxiv.org/abs/2407.15208)
 
 ## Segment Anything Model
 - Grounded-Segment-Anything [paper](https://arxiv.org/abs/2401.14159) [git](https://github.com/IDEA-Research/Grounded-Segment-Anything)
