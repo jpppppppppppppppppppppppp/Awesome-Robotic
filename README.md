@@ -2,7 +2,8 @@
 ## Lecture
 - [CS 237a: Principles of Robot Autonomy I](https://stanfordasl.github.io/PoRA-I/aa274a_aut2223/)
 - [CS 237b: Principles of Robot Autonomy II](http://web.stanford.edu/class/cs237b/)
-- [MIT 6.832: Underactuated Robotics](https://underactuated.csail.mit.edu/index.html)
+- [MIT 6.4210: Robotic Manipulation](https://manipulation.mit.edu/index.html)
+- [MIT 6.8210: Underactuated Robotics](https://underactuated.csail.mit.edu/index.html)
 
 ## CS 237b
 - `2008` Robotic Grasping of Novel Objects:
