@@ -37,6 +37,7 @@
 - [DexCap](https://dex-cap.github.io/) [paper](https://arxiv.org/abs/2403.07788)
 - `2024` [Im2Flow2Act](https://im-flow-act.github.io/) [paper](https://arxiv.org/abs/2407.15208)
 - `2024` [GET-Zero](https://get-zero-paper.github.io/) [paper](https://arxiv.org/pdf/2407.15002)
+- `2024` AdaFlow [paper](http://arxiv.org/abs/2306.14896)
 
 ## Segment Anything Model
 - Grounded-Segment-Anything [paper](https://arxiv.org/abs/2401.14159) [git](https://github.com/IDEA-Research/Grounded-Segment-Anything)
