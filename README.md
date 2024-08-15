@@ -46,6 +46,7 @@
 ## NeRF
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [paper](https://dl.acm.org/doi/abs/10.1145/3503250)
   - 体渲染公式
+  - 位置编码来让低频信号高频化
   - 分粗采样和细采样
 
 ## 3D Gaussian Splatting
