@@ -47,3 +47,9 @@
 - NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis [paper](https://dl.acm.org/doi/abs/10.1145/3503250)
   - 体渲染公式
   - 分粗采样和细采样
+
+## 3D Gaussian Splatting
+- 3D Gaussian Splatting for Real-Time Radiance Field Rendering [paper](https://arxiv.org/abs/2308.04079)
+  - 高斯椭球
+  - 球谐函数参数估计
+  - 自适应控制以避免对SFM生成点云的强依赖
