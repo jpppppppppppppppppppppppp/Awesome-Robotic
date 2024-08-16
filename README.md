@@ -56,3 +56,5 @@
   - 自适应控制以避免对SFM生成点云的强依赖
 - 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes [paper](https://arxiv.org/abs/2402.03307)
   - 引入时间，在 4D 椭球上做变换
+- Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [paper](https://arxiv.org/abs/2308.09713)
+  - 同时场景重建和每个高斯球的6DoF跟踪
