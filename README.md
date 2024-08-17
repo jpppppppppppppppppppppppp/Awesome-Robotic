@@ -59,3 +59,4 @@
   - 引入时间，在 4D 椭球上做变换
 - Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [paper](https://arxiv.org/abs/2308.09713)
   - 同时场景重建和每个高斯球的6DoF跟踪
+- DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos [paper](https://arxiv.org/abs/2405.02280)
