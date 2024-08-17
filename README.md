@@ -50,6 +50,7 @@
   - 分粗采样和细采样
 
 ## 3D Gaussian Splatting
+- Structure-From-Motion Revisited [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html)
 - 3D Gaussian Splatting for Real-Time Radiance Field Rendering [paper](https://arxiv.org/abs/2308.04079)
   - 高斯椭球
   - 球谐函数参数估计
