@@ -62,3 +62,6 @@
 - Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis [paper](https://arxiv.org/abs/2308.09713)
   - 同时场景重建和每个高斯球的6DoF跟踪
 - DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos [paper](https://arxiv.org/abs/2405.02280)
+- `2024` Mip-Splatting: Alias-free 3D Gaussian Splatting [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)
+  - 用 3D Smooth 来替代 dilation 操作，避免 zoom in 和 zoom out 时的膨胀效应和伪影。
+  - 用 2D Smooth 来近似像素建模，在像素内做平滑
