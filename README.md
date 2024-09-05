@@ -65,3 +65,6 @@
 - `2024` Mip-Splatting: Alias-free 3D Gaussian Splatting [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf)
   - 用 3D Smooth 来替代 dilation 操作，避免 zoom in 和 zoom out 时的膨胀效应和伪影。
   - 用 2D Smooth 来近似像素建模，在像素内做平滑
+-  DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation [paper](https://deformgs.github.io/)
+  - 在误差函数中引入短时间内的等距和动量
+
