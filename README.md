@@ -66,5 +66,6 @@
   - 用 3D Smooth 来替代 dilation 操作，避免 zoom in 和 zoom out 时的膨胀效应和伪影。
   - 用 2D Smooth 来近似像素建模，在像素内做平滑
 - DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation [paper](https://deformgs.github.io/)
+  - [Hexplane](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_HexPlane_A_Fast_Representation_for_Dynamic_Scenes_CVPR_2023_paper.pdf)
   - 在误差函数中引入短时间内的等距和动量
 - GraspSplats: Efficient Manipulation with 3D Feature Splatting [paper](https://graspsplats.github.io/)
