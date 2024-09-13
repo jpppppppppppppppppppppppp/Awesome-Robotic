@@ -50,6 +50,8 @@
   - 体渲染公式
   - 位置编码来让低频信号高频化
   - 分粗采样和细采样
+- Fast Dynamic Radiance Fields with Time-Aware Neural Voxels [paper](https://dl.acm.org/doi/abs/10.1145/3550469.3555383)
+
 
 ## 3D Gaussian Splatting
 - Structure-From-Motion Revisited [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html)
