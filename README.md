@@ -34,7 +34,10 @@
 - RVT: Robotic View Transformer for 3D Object Manipulation [paper](http://arxiv.org/abs/2306.14896)
 - Affordance-Centric Policy Decomposition $\pi$ : Generalisable and Sample Efficient Robot Policy Learning for Multi-Object, Long-Horizon Manipulation [demo](https://policy-decomposition.github.io/)   [paper](https://policy-decomposition.github.io/Images/paper.pdf) 
 - Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation [paper](https://arxiv.org/pdf/2408.11812)  (note:something like octo,but Cross-Embodied)
+
+## Motion Planner
 - ViIK: Flow-based Vision Inverse Kinematics Solver with Fusing Collision Checking [paper](https://arxiv.org/abs/2408.11293)
+
 ## Imitation Learning
 - [DexCap](https://dex-cap.github.io/) [paper](https://arxiv.org/abs/2403.07788)
 - `2024` [Im2Flow2Act](https://im-flow-act.github.io/) [paper](https://arxiv.org/abs/2407.15208)
