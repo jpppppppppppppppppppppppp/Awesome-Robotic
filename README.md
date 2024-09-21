@@ -37,6 +37,7 @@
 
 ## Motion Planner
 - ViIK: Flow-based Vision Inverse Kinematics Solver with Fusing Collision Checking [paper](https://arxiv.org/abs/2408.11293)
+- Neural MP: A Generalist Neural Motion Planner [paper](https://arxiv.org/abs/2409.05864)
 
 ## Imitation Learning
 - [DexCap](https://dex-cap.github.io/) [paper](https://arxiv.org/abs/2403.07788)
