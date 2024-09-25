@@ -35,7 +35,7 @@
 - Affordance-Centric Policy Decomposition $\pi$ : Generalisable and Sample Efficient Robot Policy Learning for Multi-Object, Long-Horizon Manipulation [demo](https://policy-decomposition.github.io/)   [paper](https://policy-decomposition.github.io/Images/paper.pdf) 
 - Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation [paper](https://arxiv.org/pdf/2408.11812)  (note:something like octo,but Cross-Embodied)
 - SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering [paper](https://arxiv.org/abs/2210.15185)
-
+- TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation [paper](https://arxiv.org/abs/2409.11047)
 
 ## Motion Planner
 - ViIK: Flow-based Vision Inverse Kinematics Solver with Fusing Collision Checking [paper](https://arxiv.org/abs/2408.11293)
