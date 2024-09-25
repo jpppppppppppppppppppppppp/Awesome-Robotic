@@ -77,3 +77,4 @@
   - [Hexplane](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_HexPlane_A_Fast_Representation_for_Dynamic_Scenes_CVPR_2023_paper.pdf)
   - 在误差函数中引入短时间内的等距和动量
 - GraspSplats: Efficient Manipulation with 3D Feature Splatting [paper](https://graspsplats.github.io/)
+- SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction [paper](https://arxiv.org/abs/2409.11211)
