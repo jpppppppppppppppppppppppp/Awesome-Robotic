@@ -23,7 +23,7 @@
 - [GraspNet](https://graspnet.net/anygrasp.html) [paper](https://arxiv.org/abs/2212.08333)
 - [RGBGrasp](https://sites.google.com/view/rgbgrasp) [paper](https://arxiv.org/abs/2311.16592)
 - [9DTact](https://linchangyi1.github.io/9DTact/) [paper](https://arxiv.org/abs/2308.14277)
-
+- Autonomous Precision Pouring From Unknown Containers [paper](https://ieeexplore.ieee.org/ielaam/7083369/8668830/8653969-aam.pdf?tag=1)
 ## Policy for robotic manipulation
 
 - Q-attention [paper](http://arxiv.org/abs/2105.14829)
