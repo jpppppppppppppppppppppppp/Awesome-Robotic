@@ -13,6 +13,7 @@
   - Combining learned and analytical models for predicting action effects [paper](https://www.researchgate.net/profile/Jeannette-Bohg/publication/320344651_Combining_learned_and_analytical_models_for_predicting_action_effects/links/5a1a3b23a6fdcc50adeaec5b/Combining-learned-and-analytical-models-for-predicting-action-effects.pdf)
 - `2019` Making Sense of Vision and Touch:
   - Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks [paper](https://ieeexplore.ieee.org/document/8793485)
+
 ## Table-top Manipulation
 - [UniFolding](https://unifolding.robotflow.ai/) [paper](https://arxiv.org/abs/2311.01267)
 - [DexAIRity: Deformable Manipulation Can be a Breeze](https://dextairity.cs.columbia.edu) [paper](https://arxiv.org/abs/2203.01197)
@@ -24,8 +25,8 @@
 - [RGBGrasp](https://sites.google.com/view/rgbgrasp) [paper](https://arxiv.org/abs/2311.16592)
 - [9DTact](https://linchangyi1.github.io/9DTact/) [paper](https://arxiv.org/abs/2308.14277)
 - Autonomous Precision Pouring From Unknown Containers [paper](https://ieeexplore.ieee.org/ielaam/7083369/8668830/8653969-aam.pdf?tag=1)
-## Policy for robotic manipulation
 
+## Policy for robotic manipulation
 - Q-attention [paper](http://arxiv.org/abs/2105.14829)
 - [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/) [paper](http://arxiv.org/abs/2303.04137)
 - Low-Cost Hardware for bimanual manipulation [paper](http://arxiv.org/abs/2304.13705)
@@ -36,6 +37,7 @@
 - Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation [paper](https://arxiv.org/pdf/2408.11812)  (note:something like octo,but Cross-Embodied)
 - SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering [paper](https://arxiv.org/abs/2210.15185)
 - TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation [paper](https://arxiv.org/abs/2409.11047)
+- MoDex: Planning High-Dimensional Dexterous Control via Learning Neural Hand Models [paper](https://arxiv.org/abs/2409.10983)
 
 ## Motion Planner
 - ViIK: Flow-based Vision Inverse Kinematics Solver with Fusing Collision Checking [paper](https://arxiv.org/abs/2408.11293)
