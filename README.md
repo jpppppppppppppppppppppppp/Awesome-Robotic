@@ -81,3 +81,5 @@
   - 在误差函数中引入短时间内的等距和动量
 - GraspSplats: Efficient Manipulation with 3D Feature Splatting [paper](https://graspsplats.github.io/)
 - SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction [paper](https://arxiv.org/abs/2409.11211)
+- DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation [paper](https://arxiv.org/abs/2309.16653)
+  - SDS Loss
